@@ -2,7 +2,7 @@
 
 COMMENT =		flexible logging library
 
-DISTNAME =		logging-2.0.0
+DISTNAME =		logging-1.8.2
 CATEGORIES =		devel
 HOMEPAGE =		http://rubygems.org/gems/logging
 MAINTAINER =		Sebastian Reitenbach <sebastia@openbsd.org>
