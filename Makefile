@@ -12,7 +12,7 @@ PERMIT_PACKAGE_CDROM =   Yes
 
 MODULES =		lang/ruby
 BUILD_DEPENDS +=	${RUN_DEPENDS}
-RUN_DEPENDS +=		converters/ruby-multi_json,{MODRUBY_FLAVOR}
+RUN_DEPENDS +=		converters/ruby-multi_json,${MODRUBY_FLAVOR}
 
 # MIGHT MISS little-plugger rubygem
 
